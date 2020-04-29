@@ -10,3 +10,6 @@ Para acessar o interior do container
 
 docker exec -ti  ${CONTAINER_NAME} /bin/bash
 
+Ref. Example
+
+https://github.com/wmnnd/nginx-certbot
